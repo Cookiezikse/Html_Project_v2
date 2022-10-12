@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+video {
+    width: 75%;
+    height: 75%;
+}
+
+.trailer {
+    vertical-align: center;
+    text-align: center;
+}
+
+/*Text*/
+.Portefollio { 
+    text-align: center;
+}
+
+.created {
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    color: rgb(97, 109, 105);
+}
+
+
+
+/*Listes etc... */
+
+li, a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ccf3e1;
+    text-decoration: none;
+}
+
+body, html {
+    height:150%;
+    margin:0;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color: #c9e3eb
+}
+
+.bg-image {
+    height: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav_links li {
+    display: incline-block;
+    padding: 0px 20px;
+    color: #383838;
+}
+
+ul li {
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav_links li a:hover{
+    text-align: center;
+    color: #383838;
+}
+
+
+/*Backgrounds */
+
+
+.img1 {
+    background-image: url('/images/wallpaper1.png');
+}
+
+.img2 {
+    background-image: url('/images/wallpaper9.gif');
+}
+
+.img3 {
+    background-image: url('/images/wallpaper10.jpg');
+}
+
+.img4 {
+    background-image: url('/images/wallpaper5.png');
+}
+
+.img5 {
+    background-image: url('/images/wallpaper3.png');
+}
+
+.img6 {
+    background-image: url('/images/wallpaper4.png');
+}
+
+.img7 {
+    background-image: url('/images/wallpaper7.jpg');
+}
+
+.img8 {
+    background-image: url('/images/wallpaper8.jpg');
+}
